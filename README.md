@@ -82,3 +82,5 @@ Rail ships lack the dps of reg gun spam, and as such pairing these with orbit fi
 Just one orbit fighter can provide a boost in dps and finishing power, at the cost of lower disabling power and alpha strike.
 
 Over gunned rail ships like this, with correct flying have a amazing ability to punch up in weight, the slower acceleration and large plate surfaces of large ships are perfect for you to target and kill.
+
+Here is a link to Commando Doggo's video during witch i fight his heavy turret ship. https://youtu.be/Gz4rnolrmjk?t=621
