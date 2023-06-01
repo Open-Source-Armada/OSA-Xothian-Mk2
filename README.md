@@ -3,7 +3,7 @@
 
 The Mk2 Xothian is the pregenator to the 4 railgun Cthulhu used in the 3v3 tournement, using a staggered rail charge system to pack double the rails for its gen set up, 1k weight was the goal so that the ship qualified for Kais 3v3 tournament.
 
-Estir is the 3k tournament variants, with materials min-maxed for the weight limit of 1000 tons, 143ms at 60 fps, this is provided for any future tournaments that Kai hosts.
+Estir is the 3k tournament variant, with materials min-maxed for the weight limit of 1000 tons, 143ms at 60 fps, this is provided for any future tournaments that Kai hosts.
 
 //Specs//
 
