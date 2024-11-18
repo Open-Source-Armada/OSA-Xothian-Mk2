@@ -3,21 +3,19 @@
 
 The Mk2 Xothian is the progenitor to the 4 railgun Cthulhu used in the 3v3 tournament, using a staggered rail charge system to pack double the rails for its gen set up, 1k weight was the goal so that the ship qualified for Kais 3v3 tournament.
 
-Estir is the 3k tournament variant, with materials min-maxed for the weight limit of 1000 tons, 143ms at 60 fps, this is provided for any future tournaments that Kai hosts.
-
 //Specs//
 
 2 railguns with a staggered charge system.
 
-Shoot_1+ and Shoot_2+ are your triggers, bind these to your weapon hotkey (space by default).
+Shoot_1+ and Shoot_2+ are your triggers, bind these to your weapon hotkeys (space by default).
 
 Sensitivity settings are adjustable from a yolo chip located in front of the pilot seat, this chip only adjusts your sense settings and is not vital to the operation of the aim system, you can use the U-tool save feature to save your sense settings to the ship post print.
 
-CenterSensePlus and CenterSenseMinus is your standard sensitivity, Adjust both to your preferred flying sensitivity.
+CenterSensePlus is your standard sensitivity, Adjust to your preferred flying sensitivity.
 
-AimMax- and AimMin- is your Aim hotkey, Bind both to the same keybind, this will lower your sensitivity, Adjust MinSensePlus and MinSenseMinus to change Aim sensitivity.
+AimMax- and AimMin- is your Aim hotkey, Bind both to the same keybind, this will lower your sensitivity, Adjust MinSensePlus to change Aim sensitivity.
 
-AimMax+ and AimMin+ is your Boost hotkey, Bind both to the same hotkey, this will raise your sensitivity, Adjust MaxSensePlus and MaxSenseMinus to change Boost sensitivity.
+AimMax+ and AimMin+ is your Boost hotkey, Bind both to the same hotkey, this will raise your sensitivity, Adjust MaxSensePlus to change Boost sensitivity.
 
 Ship is set to both fly and aim at a smooth sensitivity (tune to your taste), Aim keybind lowers the limits for sniping, Boost keybind removes these limits allowing for faster pitch/yaw.
 
@@ -33,7 +31,7 @@ Materials and components are on the high end, i leave it to the user to reduces 
 
 Uses premium FCU, no reverse, Roll_L and Roll_R are your keybinds for roll.
 
-Entry is through the back, there is a small gap above the thrusters.
+Entry is through a slit on the bottom of the ship.
 
 //Design//
 
@@ -45,19 +43,9 @@ This provides several advantages, the additional rail shot doubles your damage w
 
 Very slim flat profile from front and sides to reduce the ships silhouette when turning into jousts, the overall size and shape is very compact.
 
-Primarily made of Oni and Dal plates, with the tourney variant using nalfite beams to hit the 1k weight limit.
+Primarily made of Oni, Char and Ymr plates.
 
 Can be made into a lighter more affordable rail fighter by swapping plate mats, but some of the armour plates will lose effectiveness, particularly against rails/plasma.
-
-Surrounding the ship is a beam roll cage along the likely points of collision with other ships, allowing other ships to strike plates can cause instant loss of vital armour, and cause shock to spread to the core ship structure, the cage aims to remedy this by spreading some shock around the cage, and by making the point of contact be on a beam, not a armour plate.
-
-Crashing into a non beam protected ship causes more devastation to them than to you, this allows you to take greater risks without loosing your ship to collisions that are/are not deliberate.
-
-Aggressively covered with cable spines, to expand the hit box surrounding the ship, by doing so, you can force a projectile to register before it hits your ship, which is one of the causes for desync shots phasing into your ship without interacting with plates, the announcement of no pause for desync kills in the tourney made this a needed precaution.
-
-These spines also apply a "hit first" effect in collisions, allowing you to cause damage to a vital plate or component vs loosing a redundant and disposable cable spine.
-
-Those with good internet and those who dislike collisions kills should remove these, as they do take up weight to a degree, those with bad internet, or aggressive flying, should probably keep them.
 
 //Tactics//
 
@@ -82,5 +70,3 @@ Rail ships lack the dps of reg gun spam, and as such pairing these with orbit fi
 Just one orbit fighter can provide a boost in dps and finishing power, at the cost of lower disabling power and alpha strike.
 
 Over gunned rail ships like this, with correct flying have a amazing ability to punch up in weight, the slower acceleration and large plate surfaces of large ships are perfect for you to target and kill.
-
-Here is a link to Commando Doggo's video during witch i fight his heavy turret ship. https://youtu.be/Gz4rnolrmjk?t=621
