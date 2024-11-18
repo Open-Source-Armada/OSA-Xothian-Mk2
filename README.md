@@ -1,7 +1,7 @@
 # OSA-Xothian-Mk3
 1K Joust fighter with staggered rail charge, packs high alpha strike potential into a light fighter.
 
-The Mk2 Xothian is the progenitor to the 4 railgun Cthulhu used in the 3v3 tournament, using a staggered rail charge system to pack double the rails for its gen set up, 1k weight was the goal so that the ship qualified for Kais 3v3 tournament.
+The Mk3 Xothian is the progenitor to the 4 railgun Cthulhu used in the 3v3 tournament, using a staggered rail charge system to pack double the rails for its gen set up, 1k weight was the goal so that the ship qualified for Kais 3v3 tournament.
 
 //Specs//
 
