@@ -23,7 +23,7 @@ Armoured using known methods of meta plating, including big plate health, voxel 
 
 Materials and components are on the high end, i leave it to the user to reduces cost to your tastes.
 
-1035656.25 kg in weight, 142ms at 60fps.
+1016509.44 kg in weight, 142ms at 60fps.
 
 1 small prop tanks for 1 million prop, 30 mins estimated flight time.
 
